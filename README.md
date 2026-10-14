@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner.svg)
 
 <h1 align="center">Hi there, I'm Tushar Sharma 👋</h1>
 
